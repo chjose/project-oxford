@@ -1,22 +1,24 @@
-# project-oxford
-Access the microsoft API with the magic of Python
+### Python Sample code for accessing the project-oxford APIs
 
-Project Oxford Documentation
-1)	Emotion API
+Access the microsoft API with the magic of Python. In this repository there are files to access the Computer Vision API and the Emotion API from the project oxford.
+
+### Project Oxford Documentation
+
+##	Emotion API
 Attributes we are interested in:
-1.	Emotions like happy, sad, anger etc.
+#	Emotions like happy, sad, anger etc.
 
-2)	Face API
+##	Face API
 Attributes we are interested in:
-a)	Gender
-b)	Age
-c)	Smile
+#	Gender
+#	Age
+#	Smile
 
-3)	Computer Vision API
+##	Computer Vision API
 Attributes we are interested in:
-1.	Category and category score
-2.	Adult: isAdult, isRacy, scores
-3.	Faces: Age, gender. 
-4.	Colors: dominant colors
+#	Category and category score
+#	Adult: isAdult, isRacy, scores
+#	Faces: Age, gender. 
+#	Colors: dominant colors
 
-I am planning to start with the Computer Vision API to get the attributes above
+The process of getting the API key is bit **complicated** and the api website does not respond on some instances. Please use this link to get the API key with your microsoft account: https://dev.projectoxford.ai/developer
